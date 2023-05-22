@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678747712 source:d:\engneering\level 3\semester 2\graphics\sections\lab2\lab2\main.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<iostream>
+

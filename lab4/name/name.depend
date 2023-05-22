@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1681471680 source:d:\engneering\level 3\semester 2\graphics\sections\lab4\name\main.cpp
+	<cmath>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<vector>
+	<chrono>
+	<thread>
+
+1681346017 source:d:\engneering\level 3\semester 2\graphics\sections\lab4\name\test.c
+	<cmath>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<vector>
+
+1681342772 source:d:\engneering\level 3\semester 2\graphics\sections\lab4\name\test2.c
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1677859084 source:d:\engneering\level 3\semester 2\graphics\sections\lab1\setpoints\main.cpp
+	<GL/glew.h>
+	<GL/freeglut.h>
+	<vector>
+	<glm/vec3.hpp>
+	<iostream>
+

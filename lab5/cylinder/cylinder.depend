@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682532781 source:d:\engneering\level 3\semester 2\graphics\sections\lab5\cylinder\main.cpp
+	<cstdlib>
+	<cmath>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+

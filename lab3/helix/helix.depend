@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1679338496 source:d:\engneering\level 3\semester 2\graphics\sections\lab3\helix\main.cpp
+	<cmath>
+	<iostream>
+	<GL/glew.h>
+	<GL/freeglut.h>
+
